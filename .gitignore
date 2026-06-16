@@ -2,3 +2,4 @@ node_modules/
 overview/
 test-results/
 .env
+tests/
